@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg.csproj": {}
+    "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj": {}
   },
   "projects": {
-    "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg.csproj": {
+    "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectUniqueName": "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj",
         "projectName": "dotnet-rpg",
-        "projectPath": "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg.csproj",
+        "projectPath": "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj",
         "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-        "outputPath": "C:\\Git Projects\\dotnet-rpg\\obj\\",
+        "outputPath": "C:\\Git Projects\\dotnet-rpg\\dotnet-rpg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nevena\\AppData\\Roaming\\NuGet\\NuGet.Config",
